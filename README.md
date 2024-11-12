@@ -11,3 +11,5 @@ capture.py파일을 활용하여 캡처 화면 확인
 
 5단계는 pp5.py를 사용함(속도 몰빵)
 
+라이브러리
+pip install mss numpy opencv-python pyautogui
